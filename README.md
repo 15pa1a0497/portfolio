@@ -8,7 +8,7 @@ My Project BITS is about the campuses of bits university present in India, we ca
 
 1. html
 
-2.css
+2. css
 
 ### Requirements:
 
